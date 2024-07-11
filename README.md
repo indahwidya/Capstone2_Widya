@@ -32,3 +32,4 @@ DATABASE Fitur pada Transjakarta csv memiliki penjelasan sebagai berikut
 * tapOutTime: Time of tap out. Date and time
 * payAmount: The number of what customers pay. Some are free. Some not.
 
+### DATA CLEANSING
